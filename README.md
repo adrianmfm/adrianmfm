@@ -8,4 +8,4 @@
 
 📫 Cómo contactarme: adrianmoisesfls@gmail.com 
 
-⚡ Apasionado por la tecnología y siempre listo para aprender algo nuevo.
+
