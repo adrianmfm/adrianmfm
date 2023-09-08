@@ -1,7 +1,5 @@
 ### Hola, soy Adrian! 👋
 
-<img align="right" src="https://intecorecoleta.cl/wp-content/uploads/2022/08/programacion-2-e1551291144973.jpg" width="200">
-
 🌱 Estudiante de Ingeniería en Informática.
 
 🚀 Actualmente trabajando en proyectos de desarrollo.
