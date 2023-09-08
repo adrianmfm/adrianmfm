@@ -1,26 +1,11 @@
-### Hi there, soy Adrian 👋
+### Hola, soy Adrian! 👋
 
-🌱 Estudiante de ingeniería en informática.
+🌱 Estudiante de Ingeniería en Informática.
 
-#### Habilidades
+🚀 Actualmente trabajando en proyectos de desarrollo.
 
-- 💻 Programación: Javascript (React), HTML5, CSS, SQLOracle, Java, Ruby.
-- 👂 Aptitudes: Escucha activa, trabajo en equipo, autocrítico.
+🔧 Habilidades: JavaScript, React, HTML5, CSS, SQL, Java, Ruby.
 
-#### Contacto
+📫 Cómo contactarme: adrianmoisesfls@gmail.com 
 
-- 📧 Correo electrónico: adrianmoisesfls@gmail.com
-
-#### Educación
-
-- 📚 Estudiante de Ingeniería en Informática en Duoc UC.
-
-#### Idiomas
-
-- 🌐 Inglés - Intermedio
-
-#### Fun Fact
-
-- ⚡ Me apasiona aprender y crecer en el mundo de la informática.
-
-
+⚡ Apasionado por la tecnología y siempre listo para aprender algo nuevo.
