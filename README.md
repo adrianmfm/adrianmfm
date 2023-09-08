@@ -6,6 +6,6 @@
 
 🔧 Habilidades: JavaScript, React, HTML5, CSS, SQL, Java.
 
-📫 Cómo contactarme: adrianmoisesfls@gmail.com | +56961162971
+📫 Cómo contactarme: adrianmoisesfls@gmail.com 
 
 ⚡ Apasionado por la tecnología y siempre listo para aprender algo nuevo.
