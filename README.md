@@ -6,6 +6,5 @@
 
 🔧 Habilidades: JavaScript, React, HTML5, CSS, SQL, Java.
 
-📫 Cómo contactarme: adrianmoisesfls@gmail.com 
 
 
