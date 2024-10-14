@@ -1,6 +1,6 @@
 ### Hola, soy Adrian! 👋
 
-🌱 Estudiante de Ingeniería en Informática.
+🌱 Analista programdor computacional.
 
 🚀 Actualmente trabajando en proyectos de desarrollo.
 
