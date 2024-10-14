@@ -1,6 +1,6 @@
 ### Hola, soy Adrian! 👋
 
-🌱 Analista programdor computacional.
+🌱 Analista programador computacional.
 
 🚀 Actualmente trabajando en proyectos de desarrollo.
 
