@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hola, soy Adrian! 👋<br>🌱 Analista programador computacional.<br><br>🚀 Actualmente trabajando en proyectos de desarrollo.
+Hola, soy Adrian! 👋<br>Analista Programador Computacional, con experiencia en desarrollo frontend y backend.
+Me he desempeñado en la creación de soluciones tecnológicas aplicando metodologías ágiles como
+Scrum y tecnologías de vanguardia en diversos proyectos..<br><br>🚀 Actualmente trabajando en proyectos de desarrollo.
 
 
 ## 🌐 Socials:
